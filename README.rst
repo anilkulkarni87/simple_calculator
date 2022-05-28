@@ -9,7 +9,7 @@ Simple Calculator
 .. image:: https://img.shields.io/travis/anilkulkarni87/simple_calculator.svg
         :target: https://travis-ci.com/anilkulkarni87/simple_calculator
 
-.. image:: https://readthedocs.org/projects/simple-calculator/badge/?version=latest
+.. image:: https://readthedocs.org/projects/simple-calculator-akarni/badge/?version=latest
         :target: https://simple-calculator-akarni.readthedocs.io/en/latest/?version=latest
         :alt: Documentation Status
 
