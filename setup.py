@@ -34,7 +34,7 @@ setup(
     long_description=readme + '\n\n' + history,
     include_package_data=True,
     keywords='simple_calculator',
-    name='simple_calculator',
+    name='simple_calculator_akarni',
     packages=find_packages(include=['simple_calculator', 'simple_calculator.*']),
     test_suite='tests',
     tests_require=test_requirements,
