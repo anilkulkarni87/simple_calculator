@@ -24,7 +24,7 @@ A tutorial package to do simple calculations
 
 
 * Free software: MIT license
-* Documentation: https://simple-calculator.readthedocs.io.
+* Documentation: https://simple-calculator-akarni.readthedocs.io.
 
 
 Features
