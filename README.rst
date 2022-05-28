@@ -3,8 +3,8 @@ Simple Calculator
 =================
 
 
-.. image:: https://img.shields.io/pypi/v/simple_calculator.svg
-        :target: https://pypi.python.org/pypi/simple_calculator
+.. image:: https://img.shields.io/pypi/v/simple_calculator_akarni.svg
+        :target: https://pypi.python.org/pypi/simple_calculator_akarni
 
 .. image:: https://app.travis-ci.com/anilkulkarni87/simple_calculator.svg?branch=master
         :target: https://app.travis-ci.com/github/anilkulkarni87/simple_calculator
